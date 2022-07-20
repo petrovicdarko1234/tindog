@@ -1,2 +1,1 @@
-# tindog
-tinder za kerovi
+TinDog Starting Files
